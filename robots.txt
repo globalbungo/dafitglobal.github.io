@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: hersya.github.io/al-folio/sitemap.xml
